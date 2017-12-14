@@ -1,0 +1,7 @@
+{
+    "require": {
+        "behat/behat": "^3.4",
+        "drupal/drupal-extension": "^3.4",
+        "devinci/devinci-behat-extension": "^0.1.0"
+    }
+}

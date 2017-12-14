@@ -1,0 +1,17 @@
+# Ignore configuration files that may contain sensitive information.
+.idea
+
+# Ignore Composer-managed dependencies.
+vendor
+
+# OS specific mess.
+Thumbs.db
+.DS_Store
+
+#eclipse
+.project
+.buildpath
+/.settings
+
+#NetBeans
+nbproject
