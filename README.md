@@ -2,9 +2,8 @@ Behat Tests
 ------------
 
 Requirements:
-Composer installed globally (see https://getcomposer.org)
-php ()
-To execute behat tests you need Composer installed globally; :
+php and Composer installed globally (see https://getcomposer.org)
+
 To prepare test environment run from bash:
 
 composer install
